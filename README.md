@@ -44,7 +44,7 @@ Explanation of the most influential variables for predicting fraud, potentially 
 - PCA Implementation
 By doing correlation matrix heatmap found top top features of the class and keep the high featured columns alone with Class and removed rest of the columns from the data set to proceed further modelling.
 
-** Modeling: **
+**Modeling:**
 - Under Sampling
 - Over Sampling
   
