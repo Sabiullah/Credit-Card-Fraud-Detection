@@ -47,7 +47,21 @@ By doing correlation matrix heatmap found top top features of the class and keep
 **Modeling:**
 - Under Sampling
 - Over Sampling
-  
+
+**Conclusion**
+***Under Sampling***
+Logistic Regression: High accuracy and decent across other metrics.
+Decision Tree Classifier: Good overall performance but slightly lower precision and F1 score compared to the other models.
+SVM Method: High accuracy and balanced precision, recall, and F1 score.
+
+***Oversampling***
+Logistic Regression: Slightly improved performance across all metrics.
+Decision Tree Classifier: Significant improvement in all metrics, almost perfect scores.
+SVM Method: Improved accuracy and precision, slightly lower recall but an improved F1 score.
+
+***Model Selection:***
+Based on the provided results, the oversampling method has notably improved the performance of all models. The Decision Tree Classifier, in particular, exhibits impressive performance with almost perfect scores across the board in the oversampling scenario.
+
 
 
   **Contact**
