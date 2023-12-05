@@ -33,7 +33,8 @@ Exploratory Data Analysis (EDA)
 
 
 **Data Overview**
--Exploratory Data Analysis (EDA)
+
+- Exploratory Data Analysis (EDA)
 The data set contains 284807 rows and 31 columns, and found 1081 duplicated rows, after removing all the duplicated rows found the actual data that 473 fraud transactions and 283253 normal transactions.
 
 
