@@ -55,6 +55,5 @@ By doing correlation matrix heatmap found top top features of the class and keep
 📧 Email: safycosting@gmail.com
 
 🌐 LinkedIn: https://www.linkedin.com/posts/sabiullah-noor-mohamed-83507386
-LinkedIn : Video link - https://www.linkedin.com/posts/sabiullah-noor-mohamed-83507386_dataanalysis-mongodb-airbnbdata-activity-7129655795318722560-qrdY?utm_source=share&utm_medium=member_desktop
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
